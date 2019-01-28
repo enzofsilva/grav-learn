@@ -9,3 +9,5 @@ taxonomy:
 # Migration
 
 This section is dedicated to support migrations from other CMSes like WordPress
+
+We are currently looking for expert submissions of proper documentation for this topic.
